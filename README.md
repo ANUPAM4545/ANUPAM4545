@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ANUPAM4545&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
