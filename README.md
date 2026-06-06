@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Anupam Singh
 
-<!--
-**ANUPAM4545/ANUPAM4545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Student at Medhavi Skills University
 
-Here are some ideas to get you started:
+💡 Interested in:
+- Generative AI
+- Machine Learning
+- Agentic AI
+- System Design
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+💻 Languages
+- Python
+- Java
+- JavaScript
+- C++
+
+🤖 AI/ML
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- LangChain
+- CrewAI
+
+🌐 Web
+- React
+- Node.js
+- MongoDB
+
+## Current Goals
+
+- Crack AI/ML Internship
+- Master DSA
+- Build AI Agents
+- Contribute to Open Source
+
+## Featured Projects
+
+### Rural Jobs Platform
+AI-powered job platform for rural India.
+
+### Heart Disease Prediction
+Machine learning model for disease prediction.
+
+### AI Interview Coach
+Practice interviews using AI.
+
+## Connect
+
+LinkedIn: Your Link
+
+LeetCode: Your Link
+
+Portfolio: Your Link
