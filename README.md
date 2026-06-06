@@ -35,7 +35,7 @@ AI/ML Engineer in Progress • GenAI Enthusiast • Full Stack Developer
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 B.Tech CSE (AI & ML) Student at **Medhavi Skills University**
+🎓 B.Tech CSE (AI & ML) Student 
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Agentic Systems**
 
