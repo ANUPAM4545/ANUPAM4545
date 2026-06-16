@@ -103,6 +103,21 @@ Become an AI Engineer and build products that create real-world impact.
 
 # 🚀 Featured Projects
 
+
+
+### 🩺 Medical Report Explainer AI
+
+AI-powered healthcare application that simplifies complex medical reports into easy-to-understand explanations using LLMs. Features secure report uploads, plain-language insights, and a responsive PWA experience.
+
+🔗 https://medical-report-explainer-ai.vercel.app
+
+### 🏢 Enterprise RAG Assistant
+
+Retrieval-Augmented Generation (RAG) platform that enables organizations to chat with internal documents using semantic search, vector databases, and LLM-powered responses with source citations.
+
+🔗 https://enterprise-knowledge-assistant-rag.vercel.app
+
+
 ### ⚖️ Marketplace Dispute Engine
 AI-powered dispute resolution platform with RBAC, AI fraud detection, and AWS integration.
 
