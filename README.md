@@ -487,7 +487,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/ANUPAM4545/ANUPAM4545/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </p>
 
